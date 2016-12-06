@@ -1,0 +1,12 @@
+{
+  "desserts" : [
+    {
+      "name" : "Cannoli",
+      "price" : "5.50"
+    },
+    {
+      "name" : "Ricciarelli",
+      "price" : "6.00"
+    }
+  ]
+}

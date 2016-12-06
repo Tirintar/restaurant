@@ -1,0 +1,16 @@
+{
+  "drinks":[
+    {
+      "name" : "Tea",
+      "price" : "5.00"
+    },
+    {
+      "name" : "Coffee",
+      "price" : "3.50"
+    },
+    {
+      "name" : "Juice",
+      "price" : "6.45"
+    }
+  ]
+}

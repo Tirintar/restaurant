@@ -1,0 +1,13 @@
+{
+  "cuisines" : [
+    {
+      "type" : "Polish"
+    },
+    {
+      "type" : "Mexican"
+    },
+    {
+      "type" : "Italian"
+    }
+  ]
+}

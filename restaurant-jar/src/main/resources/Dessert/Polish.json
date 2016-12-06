@@ -1,0 +1,16 @@
+{
+  "desserts" : [
+    {
+      "name" : "Makowiec",
+      "price" : "6.50"
+    },
+    {
+      "name" : "Kremowka",
+      "price" : "6.00"
+    },
+    {
+      "name" : "Faworek",
+      "price" : "5.50"
+    }
+  ]
+}

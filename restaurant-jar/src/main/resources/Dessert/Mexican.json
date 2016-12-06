@@ -1,0 +1,12 @@
+{
+  "desserts" : [
+    {
+      "name" : "Capirotada",
+      "price" : "6.00"
+    },
+    {
+      "name" : "Bionico",
+      "price" : "5.55"
+    }
+  ]
+}

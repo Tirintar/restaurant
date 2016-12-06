@@ -1,0 +1,12 @@
+{
+  "mainCourses" : [
+    {
+      "name" : "Pierogi",
+      "price" : "12.50"
+    },
+    {
+      "name" : "Bigos",
+      "price" : "13.00"
+    }
+  ]
+}
